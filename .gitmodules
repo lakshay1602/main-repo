@@ -1,0 +1,3 @@
+[submodule "my-sub"]
+	path = my-sub
+	url = https://github.com/lakshay1602/my-sub
